@@ -9,7 +9,7 @@
   "dependencies": {
     "@babel/runtime": "^7.0.0",
     "@reach/menu-button": "^0.1.17",
-    "@reach/tooltip": "^0.2.2",
+    "@reach/tooltip": "^0.10.1",
     "clipboard-js": "^0.3.6",
     "local-storage-fallback": "^4.1.1",
     "lodash.throttle": "^4.1.1",
